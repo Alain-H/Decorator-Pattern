@@ -10,6 +10,8 @@
 
     my_Porsche_911 = new Unterbodenbeleuchtung(my_Porsche_911);
 
+    my_Porsche_911 = new Alufelgen(my_Porsche_911);
+
     Console.WriteLine("Ihr Porsche ist {0} und kostet {1} Euro", my_Porsche_911.getAusstattung(), my_Porsche_911.getpreis());
     Console.WriteLine("---------------------------------------------------------------------------------------------------");
 
@@ -26,6 +28,8 @@
 
 
     My_Audi = new Unterbodenbeleuchtung(My_Audi);
+
+    My_Audi = new Alufelgen(My_Audi);
 
     Console.WriteLine("Ihr Audi ist {0} und kostet {1} Euro", My_Audi.getAusstattung(), My_Audi.getpreis());
 
