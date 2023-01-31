@@ -1,0 +1,14 @@
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\bin\Debug\net6.0\Dekorator_Pattern.exe
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\bin\Debug\net6.0\Dekorator_Pattern.deps.json
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\bin\Debug\net6.0\Dekorator_Pattern.runtimeconfig.json
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\bin\Debug\net6.0\Dekorator_Pattern.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\bin\Debug\net6.0\ref\Dekorator_Pattern.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\bin\Debug\net6.0\Dekorator_Pattern.pdb
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\obj\Debug\net6.0\Dekorator_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\obj\Debug\net6.0\Dekorator_Pattern.AssemblyInfoInputs.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\obj\Debug\net6.0\Dekorator_Pattern.AssemblyInfo.cs
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\obj\Debug\net6.0\Dekorator_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\obj\Debug\net6.0\Dekorator_Pattern.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\obj\Debug\net6.0\ref\Dekorator_Pattern.dll
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\obj\Debug\net6.0\Dekorator_Pattern.pdb
+C:\Users\alain\SynologyDrive\2.SchulJahr\M326\Decorator_Pattern\Dekorator_Pattern\obj\Debug\net6.0\Dekorator_Pattern.genruntimeconfig.cache
